@@ -5,7 +5,7 @@
 # Step 1:
 # This is your Docker ID/path
 # dockerpath=<>
-dockerpath="karimfadl/udacity-mlapi"
+dockerpath="ahmedasim/udacity-mlapi"
 k8s_deployment="mlmicroserviceapi"
 
 # Step 2
