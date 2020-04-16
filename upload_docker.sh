@@ -6,7 +6,7 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath="karimfadl/udacity-mlapi"
+dockerpath="ahmedasim/udacity-mlapi"
 
 # Step 2:  
 # Authenticate & tag
